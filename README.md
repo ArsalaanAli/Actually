@@ -1,5 +1,7 @@
 # Eavesdrop / Actually
 
+![image](https://github.com/user-attachments/assets/ceeb9aed-ff50-4308-93fa-a48ab647ccde)
+
 ## Inspiration
 Staying well-informed is difficult, especially in a world that demands our attention in a myriad of complex and pressing issues like pandemics, climate change, and AI—each demanding a nuanced understanding to make a truly representative decision. It doesn't help that we not only have to seek the truth but discard what's false.
 
