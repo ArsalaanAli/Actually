@@ -1,4 +1,4 @@
-# Eavesdrop / Actually
+# Actually
 
 ![image](https://github.com/user-attachments/assets/ceeb9aed-ff50-4308-93fa-a48ab647ccde)
 
